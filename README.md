@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [DevRabbit](https://idestination.online/)
 
-- 💬 Ask me about **React,Node,JavaScript**
+- 💬 Ask me about **React,Node,JavaScript,Webpack,FrontEnd**
 
 - 📫 How to reach me **saivignanreddy0@gmail.com**
 
