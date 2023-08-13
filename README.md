@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignan18&label=Profile%20views&color=0e75b6&style=flat" alt="vignan18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vignan18" alt="vignan18" /></a> </p>
+
 
 - 🔭 I’m currently working at [DevRabbit](https://idestination.online/)
 
